@@ -1,7 +1,9 @@
 
 # Tradify
 
-Paper trading platform with a RAG-powered financial assistant, built as a DRF depth + RAG integration resume project.
+## Overview
+
+Paper trading platform with a RAG pipeline for stock analytics, built as a DRF depth + RAG integration resume project.
 
 ## Goal
 
