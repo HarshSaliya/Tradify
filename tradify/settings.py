@@ -145,3 +145,5 @@ SPECTACULAR_SETTINGS = {
     },
     'COMPONENT_SPLIT_REQUEST': True,
 }
+
+AUTH_USER_MODEL = "users.User"
